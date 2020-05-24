@@ -1,1 +1,1 @@
-# tcp-sockets
+## Client-server application based on TCP sockets ##
